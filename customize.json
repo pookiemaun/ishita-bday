@@ -1,9 +1,9 @@
 {
-  "greeting": "Hiii!!!1",
+  "greeting": "Hiii!!!",
   "name": "Ishitaaaaa",
   "greetingText": "I really like your name btw!",
   "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/ish",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!!NO WAY YOU ARE 19 NOW!!",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Okay, now better come back and tell me you liked it <3",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
